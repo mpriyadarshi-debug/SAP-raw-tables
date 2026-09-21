@@ -1,4 +1,4 @@
-MANDT,SPRAS,VSTEL,VTEXT
-100,E,SP01,Chicago Shipping Point
-100,E,SP02,Detroit Shipping Point
-100,E,SP03,Houston Shipping Point
+MANDT,SPRAS,VSTEL,VTEXT,LIFSP
+100,E,SP01,Chicago Shipping Point,
+100,E,SP02,Detroit Shipping Point,
+100,E,SP03,Houston Shipping Point,
