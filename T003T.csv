@@ -1,0 +1,10 @@
+MANDT,SPRAS,BLART,LTEXT
+100,E,NB,Standard PO
+100,E,UB,Stock Transfer Order
+100,E,FO,Framework Order
+100,E,RE,Invoice Receipt
+100,E,SA,SA
+100,E,ZB,Payment
+100,E,RN,Credit Memo
+100,E,OR,Standard Order
+100,E,LF,Delivery

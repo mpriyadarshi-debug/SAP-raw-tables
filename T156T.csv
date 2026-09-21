@@ -1,0 +1,11 @@
+MANDT,SPRAS,BWART,BTEXT
+100,E,101,Goods Receipt for PO
+100,E,102,Reversal of GR for PO
+100,E,201,Goods Issue for Cost Center
+100,E,261,Goods Issue for Order
+100,E,301,Plant-to-Plant Transfer
+100,E,501,Receipt w/o PO
+100,E,601,Goods Issue for Delivery
+100,E,621,Transfer to Another Plant
+100,E,701,Physical Inventory Adj (+)
+100,E,702,Physical Inventory Adj (-)

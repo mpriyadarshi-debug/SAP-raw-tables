@@ -1,0 +1,5 @@
+MANDT,SPRAS,BSART,BATXT
+100,E,NB,Standard PO
+100,E,UB,Stock Transfer Order
+100,E,FO,Framework Order
+100,E,ZNB,Custom PO

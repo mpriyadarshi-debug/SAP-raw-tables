@@ -1,0 +1,13 @@
+MANDT,BNAME,USTYP,ANAME,DEPARTMENT,TRDAT,CLASS
+100,BUYER01,A,Maria Garcia,Procurement,2022-11-22,
+100,BUYER02,A,James Chen,Procurement,2022-07-06,
+100,BUYER03,A,Priya Nair,Procurement,2022-03-25,
+100,SALEUSER1,A,Tom Wilson,Sales,2022-07-09,
+100,SALEUSER2,A,Linda Park,Sales,2022-07-01,
+100,SALEUSER3,A,Ahmed Khan,Sales,2022-04-18,
+100,WHOUSE01,A,Carlos Rivera,Warehouse,2022-12-10,
+100,WHOUSE02,A,Emma Brown,Warehouse,2022-05-17,
+100,FINANCE01,A,Robert Smith,Finance,2022-12-26,
+100,FINANCE02,A,Mei Lin,Finance,2022-12-16,
+100,AUTOJOB,B,System Automation,System,2022-11-28,
+100,AUTOCLR,B,Auto Clearing Job,System,2022-02-06,

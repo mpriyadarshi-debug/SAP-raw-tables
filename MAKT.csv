@@ -1,0 +1,37 @@
+MANDT,MATNR,SPRAS,MAKTX
+100,MAT00001,E,Steel Sheet 3mm
+100,MAT00002,E,Aluminum Rod 20mm
+100,MAT00003,E,Copper Wire 2mm
+100,MAT00004,E,HDPE Granules
+100,MAT00005,E,PVC Compound
+100,MAT00006,E,Hydraulic Oil ISO46
+100,MAT00007,E,Cutting Fluid
+100,MAT00008,E,Stainless Steel Tube
+100,MAT00009,E,Resistor 10K Ohm
+100,MAT00010,E,Capacitor 100uF
+100,MAT00011,E,Steel Bolt M12
+100,MAT00012,E,Steel Nut M12
+100,MAT00013,E,Cardboard Box 400x300
+100,MAT00014,E,Stretch Film Roll
+100,MAT00015,E,Epoxy Resin
+100,MAT00016,E,Machined Steel Frame
+100,MAT00017,E,Welded Bracket Assy
+100,MAT00018,E,Plastic Housing Unit
+100,MAT00019,E,PCB Assembly v2
+100,MAT00020,E,Motor Sub-Assembly
+100,MAT00021,E,Stamped Metal Panel
+100,MAT00022,E,Injection Molded Cover
+100,MAT00023,E,Chemical Mix Batch
+100,MAT00024,E,Industrial Pump Model A
+100,MAT00025,E,Industrial Pump Model B
+100,MAT00026,E,Conveyor Drive Unit
+100,MAT00027,E,Hydraulic Cylinder 100mm
+100,MAT00028,E,Electric Motor 5kW
+100,MAT00029,E,Control Panel Unit
+100,MAT00030,E,Gear Box Assembly
+100,MAT00031,E,Pneumatic Valve Set
+100,MAT00032,E,Pressure Sensor Kit
+100,MAT00033,E,Flow Meter Assembly
+100,MAT00034,E,Export Pallet 1200x800
+100,MAT00035,E,Foam Inlay Set
+100,MAT00036,E,Anti-Static Bag
