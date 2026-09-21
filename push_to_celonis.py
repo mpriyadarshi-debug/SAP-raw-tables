@@ -18,7 +18,7 @@ import time
 # ── CONFIG — fill these in ────────────────────────────────────────────────────
 CELONIS_URL = "https://peech-partner-sandbox.us-1.celonis.cloud"
 POOL_ID     = "6239346b-bf8c-4c67-9ee8-a54192b3d151"
-API_TOKEN   = "YOUR_API_TOKEN_HERE"   # paste your token here
+API_TOKEN   = "MTA1YmNjZDEtM2IyMy00ZTc0LWFkZGYtZTJiNzkyOTYyY2IwOjE4MWl5eWRpQUdDRkorRy9CT3AreHdkZ2lheU5kdlJMVDFSbGRGSHNERUJj"
 
 GITHUB_RAW  = "https://raw.githubusercontent.com/mpriyadarshi-debug/SAP-raw-tables/main"
 # ─────────────────────────────────────────────────────────────────────────────
