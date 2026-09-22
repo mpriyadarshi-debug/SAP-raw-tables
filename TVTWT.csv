@@ -1,4 +1,4 @@
-MANDT,SPRAS,VTWEG,BEZEI
-100,E,10,Direct Sales
-100,E,20,Retail
-100,E,30,Wholesale
+MANDT,SPRAS,VTWEG,BEZEI,VTEXT
+100,E,10,Direct Sales,Direct sales
+100,E,20,Retail,Direct sales
+100,E,30,Wholesale,Direct sales

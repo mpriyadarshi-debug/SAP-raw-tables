@@ -1,0 +1,7 @@
+MANDT,FAKSP,SPRAS,VTEXT
+100,01,E,Price too low
+100,02,E,Export check pending
+100,03,E,Credit limit exceeded
+100,04,E,Incomplete order
+100,05,E,Payment overdue
+100,08,E,Legal review required

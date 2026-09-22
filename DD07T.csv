@@ -1,0 +1,23 @@
+MANDT,DOMNAME,DOMVALUE_L,DDLANGUAGE,DDTEXT
+100,VBTYP,A,E,Inquiry
+100,VBTYP,B,E,Quotation
+100,VBTYP,C,E,Order
+100,VBTYP,D,E,Item proposal
+100,VBTYP,E,E,Scheduling agreement
+100,VBTYP,G,E,Contract
+100,VBTYP,H,E,Returns
+100,VBTYP,I,E,Order w/o charge
+100,VBTYP,J,E,Delivery
+100,VBTYP,K,E,Credit memo req
+100,VBTYP,L,E,Debit memo req
+100,VBTYP,M,E,Invoice
+100,VBTYP,N,E,Invoice cancel
+100,VBTYP,O,E,Credit memo
+100,VBTYP,S,E,Credit memo cancel
+100,VBTYP,T,E,WBS delivery
+100,VBTYP,U,E,Goods issue
+100,VBTYP,V,E,Purchase order
+100,KLIMP,A,E,No credit check
+100,KLIMP,B,E,Simple credit check
+100,KLIMP,C,E,Credit mgmt active
+100,KLIMP,D,E,Maximum document check
